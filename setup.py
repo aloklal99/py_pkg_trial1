@@ -3,7 +3,7 @@ from setuptools import setup
 setup(name='py_pkg_trial1',
       version='0.1',
       description='Trial package',
-      url='http://github.com/storborg/funniest',
+      url='https://github.com/aloklal99/py_pkg_trial1.git',
       author='Alok Lal',
       author_email='allal@ebay.com',
       license='MIT',
